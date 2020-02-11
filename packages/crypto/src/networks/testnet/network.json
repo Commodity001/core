@@ -1,18 +1,18 @@
 {
-    "name": "testnet",
-    "messagePrefix": "TEST message:\n",
-    "bip32": {
-        "public": 70617039,
-        "private": 70615956
-    },
-    "pubKeyHash": 23,
-    "nethash": "d9acd04bde4234a81addb8482333b4ac906bed7be5a9970ce8ada428bd083192",
-    "wif": 186,
-    "slip44": 1,
-    "aip20": 0,
-    "client": {
-        "token": "TARK",
-        "symbol": "TѦ",
-        "explorer": "http://texplorer.ark.io"
-    }
+  "name": "testnet",
+  "messagePrefix": "CCTC message:\n",
+  "bip32": {
+    "public": 70617039,
+    "private": 70615956
+  },
+  "pubKeyHash": 28,
+  "nethash": "9d8c35548ac08985faedbb73e54f88ec71acfd887f2cdaec4535310aae025355",
+  "wif": 235,
+  "slip44": 1,
+  "aip20": 0,
+  "client": {
+    "token": "CCTC",
+    "symbol": "C",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }

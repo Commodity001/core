@@ -1,18 +1,18 @@
 {
-    "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
-    "slip44": 111,
-    "aip20": 0,
-    "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
-    }
+  "name": "mainnet",
+  "messagePrefix": "CCTC message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 28,
+  "nethash": "6269e84064ac383265e2efb53a5e3bcc2e5abc642bd432972c57726c2e5d92ac",
+  "wif": 129,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "CCTC",
+    "symbol": "C",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }
