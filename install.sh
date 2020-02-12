@@ -210,9 +210,9 @@ alias ark="$HOME/core-bridgechain/packages/core/bin/run"
 echo 'alias cctchain="$HOME/core-bridgechain/packages/core/bin/run"' >> ~/.bashrc
 
 rm -rf "$HOME/core-bridgechain"
-git clone "https://github.com/xianfeic/cctc" "$HOME/core-bridgechain" || FAILED="Y"
+git clone "https://github.com/Commodity001/core" "$HOME/core-bridgechain" || FAILED="Y"
 if [ "$FAILED" == "Y" ]; then
-    echo "Failed to fetch core repo with origin 'https://github.com/xianfeic/cctc'"
+    echo "Failed to fetch core repo with origin 'https://github.com/Commodity001/core'"
 
     exit 1
 fi
